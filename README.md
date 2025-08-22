@@ -71,6 +71,15 @@ pip install -r requirements.txt
 ```
 
 ---
+## 🏋️‍♂️ Train & Test
+
+To train and evaluate the model, simply run:
+
+```bash
+python main.py
+```
+
+---
 
 ## 📊 Results
 Comparative Experiment
