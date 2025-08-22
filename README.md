@@ -23,6 +23,18 @@ python implementation of MAG_ADNet
 
 ---
 
+## 🧠 可解释性 (Interpretability)
+
+<p align="center">
+  <img src="img/inter.png" alt="Model interpretability visualization" width="1000"/>
+</p>
+
+<p align="center">
+  <em>示例：Grad-CAM/注意力热力图，展示模型在 MRI / PET 上关注的关键区域。</em>
+</p>
+
+---
+
 ## 📂 Dataset Structure
 We employed the baseline FDG-PET and T1-weighted MRI data, preprocessed and provided by the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database.
 The dataset should be organized in the following format:
@@ -71,6 +83,7 @@ pip install -r requirements.txt
 ```
 
 ---
+
 ## 🏋️‍♂️ Train & Test
 
 To train and evaluate the model, simply run:
