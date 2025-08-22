@@ -54,8 +54,8 @@ The dataset should be organized in the following format:
 │
 
 
-- `MRI/` : contains structural MRI scans in NIfTI format (`.nii.gz`).  
-- `PET/` : contains corresponding PET scans in NIfTI format (`.nii.gz`).  
+- `mri/` : contains structural MRI scans in NIfTI format (`.nii.gz`).  
+- `pet/` : contains corresponding PET scans in NIfTI format (`.nii.gz`).  
 
 ---
 
