@@ -24,7 +24,7 @@ python implementation of MAG_ADNet
 ---
 
 ## 📂 Dataset Structure
-We employed the baseline FDG-PET and T1-weighted MRI data, preprocessed and provided by the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database
+We employed the baseline FDG-PET and T1-weighted MRI data, preprocessed and provided by the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database.
 The dataset should be organized in the following format:
 
 ```text
@@ -63,7 +63,7 @@ The dataset should be organized in the following format:
 - Python <3.12.4>
 - PyTorch >= <2.4.0>
 
-快速创建环境（示例）：
+"Quickstart: Create an Environment (Example)"：
 ```bash
 conda create -n <env_name> python=3.9 -y
 conda activate <env_name>
