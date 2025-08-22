@@ -16,8 +16,6 @@ python implementation of MAG_ADNet
 
 ---
 
----
-
 ## 💡 Features
 - 多模态支持：MRI / PET
 - <核心方法/模块>（ResNet-50 、 Modality Feature Discrepancy Identification and Fusion (MDIF) 、 Dynamic Tanh 、 Gated Multi-Head Self Attention (GMHSA)）
@@ -25,19 +23,33 @@ python implementation of MAG_ADNet
 
 ---
 
----
 ## 📂 Datasets
 
 The dataset should be organized in the following structure:
-├── MRI # MRI images
-│ ├── sub-ADNI001S0001.nii.gz
-│ ├── sub-ADNI009S0001.nii.gz
-│ ├── ...
-├── PET # PET images
-│ ├── sub-ADNI001S0001.nii.gz
-│ ├── sub-ADNI009S0001.nii.gz
-│ ├── ...
-├── ADNI.csv # Label file (subject IDs and diagnosis labels)
+├── mri # MRI images
+│ ├── train
+│ │ ├── AD # Alzheimer's Disease
+│ │ ├── MCI # Mild Cognitive Impairment
+│ │ ├── EMCI # Early MCI
+│ │ └── LMCI # Late MCI
+│ └── test
+│ ├── AD
+│ ├── MCI
+│ ├── EMCI
+│ └── LMCI
+│
+├── pet # PET images
+│ ├── train
+│ │ ├── AD
+│ │ ├── MCI
+│ │ ├── EMCI
+│ │ └── LMCI
+│ └── test
+│ ├── AD
+│ ├── MCI
+│ ├── EMCI
+│ └── LMCI
+│
 
 - `MRI/` : contains structural MRI scans in NIfTI format (`.nii.gz`).  
 - `PET/` : contains corresponding PET scans in NIfTI format (`.nii.gz`).  
