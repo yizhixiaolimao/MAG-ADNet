@@ -18,10 +18,10 @@ This repository is the official implementation of MAG-ADNet.
 
 ## 💡 Primary Contribution
 To further enhance diagnostic accuracy and strengthen the effectiveness of intermediate-to-late multimodal fusion, we propose MAG-ADNet (Modality-Adversarial-Gated Network for AD). This is a novel method which not only optimizes the fusion strategy but also achieves efficient extraction of discriminative information.Our key contributions are summarized as follows:
-1. The MAG-ADNet architecture achieves accurate diagnosis with dual modalities by leveraging two modality-specific ResNet-50 encoders together with the MDIF module. This design adversarially learns both modality-specific and fused representations.
-2. We introduce Gated Multi-Head Self Attention (GMHSA) to enhance information flow across attention heads and strengthen cross-modal interactions.
-3. We adopt DyT to enhance representation learning with a learnable, smoothly adjustable activation curve, improving robustness to distribution shifts and preserving fine-grained multimodal cues.
-4. Extensive experiments on both the AD vs CN and LMCI vs EMCI datasets demonstrate superior performance of MAG-ADNet, achieving state-of-the-art results on most metrics.
+🌊1. The MAG-ADNet architecture achieves accurate diagnosis with dual modalities by leveraging two modality-specific ResNet-50 encoders together with the MDIF module. This design adversarially learns both modality-specific and fused representations.
+🌊2. We introduce Gated Multi-Head Self Attention (GMHSA) to enhance information flow across attention heads and strengthen cross-modal interactions.
+🌊3. We adopt DyT to enhance representation learning with a learnable, smoothly adjustable activation curve, improving robustness to distribution shifts and preserving fine-grained multimodal cues.
+🌊4. Extensive experiments on both the AD vs CN and LMCI vs EMCI datasets demonstrate superior performance of MAG-ADNet, achieving state-of-the-art results on most metrics.
 ---
 
 ## 🧠 Interpretability
