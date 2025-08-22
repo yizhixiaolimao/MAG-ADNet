@@ -173,27 +173,27 @@ python main.py
     <th>AUC</th>
   </tr>
   <tr>
-    <td>Miccai-Fusion</td>
+    <td>Ours (w/o PET)</td>
     <td>85.2</td><td>84.7</td><td>83.9</td><td>84.3</td><td>86.0</td><td>0.89</td>
     <td>78.4</td><td>77.9</td><td>76.5</td><td>77.2</td><td>79.0</td><td>0.82</td>
   </tr>
   <tr>
-    <td>ADViT</td>
+    <td>Ours (w/o MRI)</td>
     <td>89.5</td><td>90.1</td><td>88.6</td><td>89.3</td><td>90.4</td><td>0.92</td>
     <td>83.6</td><td>84.1</td><td>82.7</td><td>83.4</td><td>84.5</td><td>0.87</td>
   </tr>
   <tr>
-    <td>Transmf_AD</td>
+    <td>Ours (w/o MDIF)</td>
     <td>87.8</td><td>87.2</td><td>86.1</td><td>86.6</td><td>88.0</td><td>0.90</td>
     <td>80.2</td><td>81.0</td><td>79.4</td><td>80.2</td><td>81.6</td><td>0.84</td>
   </tr>
   <tr>
-    <td>MENet</td>
+    <td>Ours (w/o DyT)</td>
     <td>90.3</td><td>90.7</td><td>89.1</td><td>89.9</td><td>91.0</td><td>0.93</td>
     <td>85.0</td><td>85.6</td><td>84.3</td><td>84.9</td><td>85.8</td><td>0.88</td>
   </tr>
   <tr>
-    <td>Diamond</td>
+    <td>Ours (w/o GMHSA)</td>
     <td>91.1</td><td>91.5</td><td>90.4</td><td>90.9</td><td>91.8</td><td>0.94</td>
     <td>86.4</td><td>86.9</td><td>85.7</td><td>86.3</td><td>87.2</td><td>0.89</td>
   </tr>
