@@ -2,7 +2,7 @@
 python implementation of MAG_ADNet
 # <Project Name>  <!-- 例：MAG_ADNet -->
 
-> <基于多模态的AD诊断>
+> <基于多模态的AD和MCI亚种诊断>
 
 [Paper](<link or "TBA">) • [Project Page](<optional>) • [License](#license)
 
@@ -53,10 +53,8 @@ The dataset should be organized in the following structure:
 
 - `MRI/` : contains structural MRI scans in NIfTI format (`.nii.gz`).  
 - `PET/` : contains corresponding PET scans in NIfTI format (`.nii.gz`).  
-- `ADNI.csv` : CSV file containing subject IDs and their diagnosis labels (e.g., AD, MCI, CN).  
 
-
-
+---
 
 ## 📦 Environment
 - Python <3.12.4>
