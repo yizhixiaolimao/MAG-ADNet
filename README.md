@@ -1,12 +1,4 @@
 # MAG-ADNet
-This repository is the official implementation of MAG-ADNet. 
-# <Project Name>  <!-- 例：MAG_ADNet -->
-
-> <基于多模态的AD和MCI亚种诊断>
-
-[Paper](<link or "TBA">) • [Project Page](<optional>) • [License](#license)
-
----
 
 ## ✨ Model Structure
 
