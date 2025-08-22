@@ -25,6 +25,27 @@ python implementation of MAG_ADNet
 
 ---
 
+---
+## 📂 Datasets
+
+The dataset should be organized in the following structure:
+├── MRI # MRI images
+│ ├── sub-ADNI001S0001.nii.gz
+│ ├── sub-ADNI009S0001.nii.gz
+│ ├── ...
+├── PET # PET images
+│ ├── sub-ADNI001S0001.nii.gz
+│ ├── sub-ADNI009S0001.nii.gz
+│ ├── ...
+├── ADNI.csv # Label file (subject IDs and diagnosis labels)
+
+- `MRI/` : contains structural MRI scans in NIfTI format (`.nii.gz`).  
+- `PET/` : contains corresponding PET scans in NIfTI format (`.nii.gz`).  
+- `ADNI.csv` : CSV file containing subject IDs and their diagnosis labels (e.g., AD, MCI, CN).  
+
+
+
+
 ## 📦 Environment
 - Python <3.12.4>
 - PyTorch >= <2.4.0>
