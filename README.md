@@ -16,10 +16,8 @@ python implementation of MAG_ADNet
 ---
 
 ## 📦 Environment
-- Python <3.9/3.10>
-- PyTorch >= <2.0>
-- MONAI >= <1.2>
-- nibabel, SimpleITK, numpy, scikit-image, tqdm
+- Python <3.12.4>
+- PyTorch >= <2.4.0>
 
 快速创建环境（示例）：
 ```bash
