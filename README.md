@@ -180,27 +180,27 @@ python main.py
   <tr>
     <td>Ours (w/o MRI)</td>
     <td>86.25</td><td>85.99</td><td>72.01</td><td>80.56</td><td>87.88</td><td>72.22</td>
-    <td>83.6</td><td>84.1</td><td>82.7</td><td>83.4</td><td>84.5</td><td>0.87</td>
+    <td>78.71</td><td>77.50</td><td>55.23</td><td>66.15</td><td>79.63</td><td>55.85</td>
   </tr>
   <tr>
     <td>Ours (w/o MDIF)</td>
     <td>70.00</td><td>69.70</td><td>39.39</td><td>66.67</td><td>66.67</td><td>39.39</td>
-    <td>80.2</td><td>81.0</td><td>79.4</td><td>80.2</td><td>81.6</td><td>0.84</td>
+    <td>68.39</td><td>62.81</td><td>29.84</td><td>35.38</td><td>76.67</td><td>34.48</td>
   </tr>
   <tr>
     <td>Ours (w/o DyT)</td>
     <td>85.00</td><td>84.40</td><td>69.10</td><td>72.22</td><td>92.90</td><td>70.60</td>
-    <td>85.0</td><td>85.6</td><td>84.3</td><td>84.9</td><td>85.8</td><td>0.88</td>
+    <td>77.42</td><td>76.13</td><td>52.52</td><td>64.62</td><td>77.78</td><td>53.11</td>
   </tr>
   <tr>
     <td>Ours (w/o GMHSA)</td>
     <td>90.00</td><td>89.84</td><td>79.70</td><td>86.11</td><td>91.18</td><td>79.80</td>
-    <td>86.4</td><td>86.9</td><td>85.7</td><td>86.3</td><td>87.2</td><td>0.89</td>
+    <td>80.65</td><td>78.69</td><td>58.30</td><td>60.00</td><td>90.70</td><td>61.23</td>
   </tr>
   <tr>
     <td><b>Ours</b></td>
-    <td><b>92.50</b></td><td><b>92.42</b></td><td><b>84.85</b></td><td><b>91.67</b></td><td><b>84.85</b></td><td><b>0.95</b></td>
-    <td><b>88.9</b></td><td><b>89.2</b></td><td><b>88.1</b></td><td><b>88.6</b></td><td><b>89.7</b></td><td><b>0.91</b></td>
+    <td><b>92.50</b></td><td><b>92.42</b></td><td><b>84.85</b></td><td><b>91.67</b></td><td><b>91.67</b></td><td><b>84.85</b></td>
+    <td><b>81.29</b></td><td><b>80.09</b></td><td><b>60.48</b></td><td><b>67.69</b></td><td><b>84.61</b></td><td><b>61.46</b></td>
   </tr>
 </table>
 
