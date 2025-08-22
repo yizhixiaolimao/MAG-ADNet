@@ -23,7 +23,7 @@ python implementation of MAG_ADNet
 
 ---
 
-## Interpretability
+## 🧠 Interpretability
 
 <p align="center">
   <img src="img/interpre.png" alt="Model interpretability visualization" width="1000"/>
