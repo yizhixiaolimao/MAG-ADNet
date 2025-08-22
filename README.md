@@ -23,33 +23,37 @@ python implementation of MAG_ADNet
 
 ---
 
-## 📂 Datasets
+## 📂 Dataset Structure
 
-The dataset should be organized in the following structure:
-├── mri # MRI images
-│ ├── train
-│ │ ├── AD # Alzheimer's Disease
-│ │ ├── MCI # Mild Cognitive Impairment
-│ │ ├── EMCI # Early MCI
-│ │ └── LMCI # Late MCI
-│ └── test
-│ ├── AD
-│ ├── MCI
-│ ├── EMCI
-│ └── LMCI
+The dataset should be organized in the following format:
+
+```text
+├── mri                             # MRI images
+│   ├── train
+│   │   ├── AD    # Alzheimer's Disease
+│   │   ├── MCI   # Mild Cognitive Impairment
+│   │   ├── EMCI  # Early MCI
+│   │   └── LMCI  # Late MCI
+│   └── test
+│       ├── AD
+│       ├── MCI
+│       ├── EMCI
+│       └── LMCI
 │
-├── pet # PET images
-│ ├── train
-│ │ ├── AD
-│ │ ├── MCI
-│ │ ├── EMCI
-│ │ └── LMCI
-│ └── test
-│ ├── AD
-│ ├── MCI
-│ ├── EMCI
-│ └── LMCI
+├── pet                             # PET images
+│   ├── train
+│   │   ├── AD
+│   │   ├── MCI
+│   │   ├── EMCI
+│   │   └── LMCI
+│   └── test
+│       ├── AD
+│       ├── MCI
+│       ├── EMCI
+│       └── LMCI
 │
+├── ADNI.csv                        # Label file (subject IDs and diagnosis labels)
+
 
 - `MRI/` : contains structural MRI scans in NIfTI format (`.nii.gz`).  
 - `PET/` : contains corresponding PET scans in NIfTI format (`.nii.gz`).  
