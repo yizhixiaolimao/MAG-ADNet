@@ -174,8 +174,8 @@ python main.py
   </tr>
   <tr>
     <td>Ours (w/o PET)
-    </td><td>76.25</td><td>75.79</td><td>51.65</td><td>69.44</td><td>75.76</td><td>51.81
-    </td><td>78.4</td><td>77.9</td><td>76.5</td><td>77.2</td><td>79.0</td><td>0.82</td>
+    </td><td>76.25</td><td>75.79</td><td>51.65</td><td>69.44</td><td>75.76</td><td>51.81</td>
+    <td>77.42</td><td>75.44</td><td>51.67</td><td>58.46</td><td>82.61</td><td>53.55</td>
   </tr>
   <tr>
     <td>Ours (w/o MRI)</td>
