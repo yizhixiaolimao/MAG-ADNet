@@ -195,12 +195,12 @@ python main.py
   <tr>
     <td>Ours (w/o GMHSA)</td>
     <td>90.00</td><td>89.84</td><td>79.70</td><td>86.11</td><td>91.18</td><td>79.80</td>
-    <td>80.65</td><td>78.69</td><td>58.30</td><td>60.00</td><td>90.70</td><td>61.23</td>
+    <td>80.65</td><td>78.69</td><td>58.30</td><td>60.00</td><td><b>90.70</td><td>61.23</td>
   </tr>
   <tr>
     <td><b>Ours</b></td>
     <td><b>92.50</b></td><td><b>92.42</b></td><td><b>84.85</b></td><td><b>91.67</b></td><td>91.67</b></td><td><b>84.85</b></td>
-    <td><b>81.29</b></td><td><b>80.09</b></td><td><b>60.48</b></td><td><b>67.69</b></td><td><b>84.61</b></td><td><b>61.46</b></td>
+    <td><b>81.29</b></td><td><b>80.09</b></td><td><b>60.48</b></td><td><b>67.69</b></td><td>84.61</b></td><td><b>61.46</b></td>
   </tr>
 </table>
 
