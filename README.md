@@ -36,7 +36,8 @@ This repository is the official implementation of MAG-ADNet.
 ---
 
 ## 📂 Dataset Structure
-We employed the baseline FDG-PET and T1-weighted MRI data, preprocessed and provided by the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database.
+We employed the baseline FDG-PET and T1-weighted MRI data, preprocessed and provided by the [Alzheimer’s Disease Neuroimaging Initiative (ADNI)](https://adni.loni.usc.edu/)
+ database.
 The dataset should be organized in the following format:
 
 ```text
