@@ -68,4 +68,17 @@ The dataset should be organized in the following format:
 conda create -n <env_name> python=3.9 -y
 conda activate <env_name>
 pip install -r requirements.txt
+```
+
+---
+
+## 📊 Results
+
+| Method        | Accuracy (%) | Precision (%) | Recall (%) | F1-score (%) |
+|---------------|--------------|---------------|------------|--------------|
+| ResNet-50     | 85.2         | 84.7          | 83.9       | 84.3         |
+| MDIF + GMHSA  | 89.5         | 90.1          | 88.6       | 89.3         |
+| **Ours**      | **92.7**     | **92.3**      | **91.8**   | **92.0**     |
+
+
 
