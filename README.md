@@ -104,13 +104,13 @@ python main.py
     <th colspan="6" style="text-align:center;">LMCI vs EMCI</th>
   </tr>
   <tr>
-    <th>Accuracy</th>
+    <th>Acc</th>
     <th>F1</th>
     <th>Kappa</th>
     <th>Sen</th>
     <th>Prec</th>
     <th>Mcc</th>
-    <th>Accuracy</th>
+    <th>Acc</th>
     <th>F1</th>
     <th>Kappa</th>
     <th>Sen</th>
@@ -159,13 +159,13 @@ python main.py
     <th colspan="6" style="text-align:center;">LMCI vs EMCI</th>
   </tr>
   <tr>
-    <th>Accuracy</th>
+    <th>Acc</th>
     <th>F1</th>
     <th>Kappa</th>
     <th>Sen</th>
     <th>Prec</th>
     <th>Mcc</th>
-    <th>Accuracy</th>
+    <th>Acc</th>
     <th>F1</th>
     <th>Kappa</th>
     <th>Sen</th>
