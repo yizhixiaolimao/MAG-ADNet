@@ -74,8 +74,6 @@ pip install -r requirements.txt
 
 ## 📊 Results
 
-## 📊 Results
-
 <table>
   <tr>
     <th rowspan="2">Method</th>
