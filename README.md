@@ -2,7 +2,7 @@
 python implementation of MAG_ADNet
 # <Project Name>  <!-- 例：MAG_ADNet -->
 
-> <一句话简介：项目做什么、应用场景/论文标题>
+> <基于多模态的AD诊断>
 
 [Paper](<link or "TBA">) • [Project Page](<optional>) • [License](#license)
 
@@ -10,7 +10,7 @@ python implementation of MAG_ADNet
 
 ## ✨ Features
 - 多模态支持：MRI / PET
-- <核心方法/模块>（如：Attention、Patch Embedding、3D CNN / ViT）
+- <核心方法/模块>（ResNet-50 、 Modality Feature Discrepancy Identification and Fusion (MDIF) 、 Dynamic Tanh 、 Gated Multi-Head Self Attention (GMHSA)）
 - 复现实验脚本与配置
 
 ---
