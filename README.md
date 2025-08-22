@@ -30,7 +30,7 @@ python implementation of MAG_ADNet
 </p>
 
 <p align="center">
-  <em>示例：Grad-CAM/注意力热力图，展示模型在 MRI / PET 上关注的关键区域。</em>
+  <em>Example: Occlusion heatmap showing the key brain regions the model focuses on in MRI / PET.</em>
 </p>
 
 ---
