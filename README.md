@@ -18,7 +18,7 @@ python implementation of MAG_ADNet
 
 ---
 
-## ✨ Features
+## 💡 Features
 - 多模态支持：MRI / PET
 - <核心方法/模块>（ResNet-50 、 Modality Feature Discrepancy Identification and Fusion (MDIF) 、 Dynamic Tanh 、 Gated Multi-Head Self Attention (GMHSA)）
 - 复现实验脚本与配置
