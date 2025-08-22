@@ -1,4 +1,4 @@
-# MAG_ADNet
+# MAG-ADNet
 This repository is the official implementation of MAG-ADNet. 
 # <Project Name>  <!-- 例：MAG_ADNet -->
 
