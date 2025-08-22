@@ -26,7 +26,7 @@ python implementation of MAG_ADNet
 ## 🧠 可解释性 (Interpretability)
 
 <p align="center">
-  <img src="img/inter.png" alt="Model interpretability visualization" width="1000"/>
+  <img src="img/interpre.png" alt="Model interpretability visualization" width="1000"/>
 </p>
 
 <p align="center">
