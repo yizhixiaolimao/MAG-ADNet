@@ -189,7 +189,7 @@ python main.py
   </tr>
   <tr>
     <td>Ours (w/o DyT)</td>
-    <td>85.00</td><td>84.40</td><td>69.10</td><td>72.22</td><td>92.90</td><td>70.60</td>
+    <td>85.00</td><td>84.40</td><td>69.10</td><td>72.22</td><td><b>92.90</td><td>70.60</td>
     <td>77.42</td><td>76.13</td><td>52.52</td><td>64.62</td><td>77.78</td><td>53.11</td>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ python main.py
   </tr>
   <tr>
     <td><b>Ours</b></td>
-    <td><b>92.50</b></td><td><b>92.42</b></td><td><b>84.85</b></td><td><b>91.67</b></td><td><b>91.67</b></td><td><b>84.85</b></td>
+    <td><b>92.50</b></td><td><b>92.42</b></td><td><b>84.85</b></td><td><b>91.67</b></td><td>91.67</b></td><td><b>84.85</b></td>
     <td><b>81.29</b></td><td><b>80.09</b></td><td><b>60.48</b></td><td><b>67.69</b></td><td><b>84.61</b></td><td><b>61.46</b></td>
   </tr>
 </table>
