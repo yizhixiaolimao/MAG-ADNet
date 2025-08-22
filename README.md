@@ -17,7 +17,7 @@ This repository is the official implementation of MAG-ADNet.
 ---
 
 ## 💡 Primary Contribution
-To further enhance diagnostic accuracy and strengthen the effectiveness of intermediate-to-late multimodal fusion, we propose MAG-ADNet (Modality-Adversarial-Gated Network for AD). This is a novel method which not only optimizes the fusion strategy but also achieves efficient extraction of discriminative information, thereby surpassing state-of-the-art intermediate-to-late fusion methods and delivering superior diagnostic performance in complex multimodal scenarios.Our key contributions are summarized as follows:
+To further enhance diagnostic accuracy and strengthen the effectiveness of intermediate-to-late multimodal fusion, we propose MAG-ADNet (Modality-Adversarial-Gated Network for AD). This is a novel method which not only optimizes the fusion strategy but also achieves efficient extraction of discriminative information.Our key contributions are summarized as follows:
 
 
 ---
