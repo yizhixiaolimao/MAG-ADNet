@@ -173,9 +173,9 @@ python main.py
     <th>AUC</th>
   </tr>
   <tr>
-    <td>Ours (w/o PET)</td>
-    <td>85.2</td><td>84.7</td><td>83.9</td><td>84.3</td><td>86.0</td><td>0.89</td>
-    <td>78.4</td><td>77.9</td><td>76.5</td><td>77.2</td><td>79.0</td><td>0.82</td>
+    <td>Ours (w/o PET)
+    </td><td>76.25</td><td>75.79</td><td>51.65</td><td>69.44</td><td>75.76</td><td>51.81
+    </td><td>78.4</td><td>77.9</td><td>76.5</td><td>77.2</td><td>79.0</td><td>0.82</td>
   </tr>
   <tr>
     <td>Ours (w/o MRI)</td>
