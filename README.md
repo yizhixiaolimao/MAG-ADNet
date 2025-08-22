@@ -52,7 +52,6 @@ The dataset should be organized in the following format:
 │       ├── EMCI
 │       └── LMCI
 │
-├── ADNI.csv                        # Label file (subject IDs and diagnosis labels)
 
 
 - `MRI/` : contains structural MRI scans in NIfTI format (`.nii.gz`).  
