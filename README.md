@@ -11,7 +11,7 @@ python implementation of MAG_ADNet
 ## ✨ Model Structure
 
 <p align="center">
-  <img src="img/model.png" alt="Model Structure" width="600"/>
+  <img src="img/model.png" alt="Model Structure" width="1000"/>
 </p>
 
 ---
