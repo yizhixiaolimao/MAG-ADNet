@@ -31,7 +31,7 @@ To further enhance diagnostic accuracy and strengthen the effectiveness of inter
 </p>
 
 <p align="center">
-  <em>Example: Occlusion heatmap showing the key brain regions the model focuses on in MRI / PET.</em>
+  <em>Example: Occlusion Sensitivity heatmap showing the key brain regions the model focuses on in MRI / PET.</em>
 </p>
 
 ---
