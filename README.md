@@ -105,11 +105,27 @@ pip install -r requirements.txt
     <td>83.6</td><td>84.1</td><td>82.7</td><td>83.4</td><td>84.5</td><td>0.87</td>
   </tr>
   <tr>
+    <td>DenseNet-121</td>
+    <td>87.8</td><td>87.2</td><td>86.1</td><td>86.6</td><td>88.0</td><td>0.90</td>
+    <td>80.2</td><td>81.0</td><td>79.4</td><td>80.2</td><td>81.6</td><td>0.84</td>
+  </tr>
+  <tr>
+    <td>ViT-B/16</td>
+    <td>90.3</td><td>90.7</td><td>89.1</td><td>89.9</td><td>91.0</td><td>0.93</td>
+    <td>85.0</td><td>85.6</td><td>84.3</td><td>84.9</td><td>85.8</td><td>0.88</td>
+  </tr>
+  <tr>
+    <td>Swin-Transformer</td>
+    <td>91.1</td><td>91.5</td><td>90.4</td><td>90.9</td><td>91.8</td><td>0.94</td>
+    <td>86.4</td><td>86.9</td><td>85.7</td><td>86.3</td><td>87.2</td><td>0.89</td>
+  </tr>
+  <tr>
     <td><b>Ours</b></td>
     <td><b>92.7</b></td><td><b>92.3</b></td><td><b>91.8</b></td><td><b>92.0</b></td><td><b>93.1</b></td><td><b>0.95</b></td>
     <td><b>88.9</b></td><td><b>89.2</b></td><td><b>88.1</b></td><td><b>88.6</b></td><td><b>89.7</b></td><td><b>0.91</b></td>
   </tr>
 </table>
+
 
 
 
