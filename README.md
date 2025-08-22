@@ -16,10 +16,9 @@ This repository is the official implementation of MAG-ADNet.
 
 ---
 
-## 💡 Features
-- 多模态支持：MRI / PET
-- <核心方法/模块>（ResNet-50 、 Modality Feature Discrepancy Identification and Fusion (MDIF) 、 Dynamic Tanh 、 Gated Multi-Head Self Attention (GMHSA)）
-- 复现实验脚本与配置
+## 💡 Primary Contribution
+To further enhance diagnostic accuracy and strengthen the effectiveness of intermediate-to-late multimodal fusion, we propose MAG-ADNet (Modality-Adversarial-Gated Network for AD). This is a novel method which not only optimizes the fusion strategy but also achieves efficient extraction of discriminative information, thereby surpassing state-of-the-art intermediate-to-late fusion methods and delivering superior diagnostic performance in complex multimodal scenarios.Our key contributions are summarized as follows:
+
 
 ---
 
