@@ -150,7 +150,7 @@ Comparative Experiment
 
 ---
 
-Ablation Experiment
+<h2 style="color:blue;">**Ablation Experiment**</h2>
 <table>
   <tr>
     <th rowspan="2">Method</th>
