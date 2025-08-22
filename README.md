@@ -105,17 +105,17 @@ python main.py
   </tr>
   <tr>
     <th>Accuracy</th>
-    <th>Precision</th>
-    <th>Recall</th>
     <th>F1</th>
-    <th>Specificity</th>
-    <th>AUC</th>
+    <th>Kappa</th>
+    <th>Sen</th>
+    <th>Prec</th>
+    <th>Mcc</th>
     <th>Accuracy</th>
-    <th>Precision</th>
-    <th>Recall</th>
     <th>F1</th>
-    <th>Specificity</th>
-    <th>AUC</th>
+    <th>Kappa</th>
+    <th>Sen</th>
+    <th>Prec</th>
+    <th>Mcc</th>
   </tr>
   <tr>
     <td>Miccai-Fusion</td>
