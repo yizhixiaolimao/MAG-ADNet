@@ -113,27 +113,27 @@ python main.py
   <tr>
     <td>Miccai-Fusion</td>
     <td>86.25</td><td>86.14</td><td>72.29</td><td>86.11</td><td>83.78</td><td>72.32</td>
-    <td>78.4</td><td>77.9</td><td>76.5</td><td>77.2</td><td>79.0</td><td>0.82</td>
+    <td>78.06</td><td>76.41</td><td>53.36</td><td>61.54</td><td>81.63</td><td>54.70</td>
   </tr>
   <tr>
     <td>ADViT</td>
     <td>85.00</td><td>84.38</td><td>69.07</td><td>72.22</td><td>92.86</td><td>70.59</td>
-    <td>83.6</td><td>84.1</td><td>82.7</td><td>83.4</td><td>84.5</td><td>0.87</td>
+    <td>75.48</td><td>74.46</td><td>49.00</td><td>66.15</td><td>72.88</td><td>49.16</td>
   </tr>
   <tr>
     <td>Transmf_AD</td>
     <td>77.50</td><td>76.98</td><td>54.08</td><td>69.44</td><td>78.12</td><td>54.36</td>
-    <td>80.2</td><td>81.0</td><td>79.4</td><td>80.2</td><td>81.6</td><td>0.84</td>
+    <td>62.58</td><td>57.78</td><td>20.53</td><td>19.73</td><td>40.00</td><td>47.27</td>
   </tr>
   <tr>
     <td>MENet</td>
     <td>87.50</td><td>87.37</td><td>74.75</td><td>86.11</td><td>86.11</td><td>74.75</td>
-    <td>85.0</td><td>85.6</td><td>84.3</td><td>84.9</td><td>85.8</td><td>0.88</td>
+    <td>76.13</td><td>73.82</td><td>48.68</td><td>55.38</td><td>81.82</td><td>50.89</td>
   </tr>
   <tr>
     <td>Diamond</td>
-    <td>85.00</td><td>82.53</td><td>71.57</td><td>72.22</td><td>96.29</td><td>73.59</td>
-    <td>86.4</td><td>86.9</td><td>85.7</td><td>86.3</td><td>87.2</td><td>0.89</td>
+    <td>85.00</td><td>82.53</td><td>71.57</td><td>72.22</td><td><b>96.29</td><td>73.59</td>
+    <td>75.72</td><td>71.42</td><td>51.89</td><td>69.23</td><td>73.77</td><td>51.97</td>
   </tr>
   <tr>
     <td><b>Ours</b></td>
