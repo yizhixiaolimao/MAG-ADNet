@@ -182,7 +182,7 @@ python main.py
   </tr>
   <tr>
     <td>(w/o DyT)</td>
-    <td>85.00</td><td>84.40</td><td>69.10</td><td>72.22</td><td><b>92.90</td><td>70.60</td>
+    <td>85.00</td><td>84.38</td><td>69.07</td><td>72.22</td><td><b>92.86</td><td>70.59</td>
     <td>77.42</td><td>76.13</td><td>52.52</td><td>64.62</td><td>77.78</td><td>53.11</td>
   </tr>
   <tr>
