@@ -133,12 +133,12 @@ python main.py
   <tr>
     <td>Diamond</td>
     <td>85.00</td><td>82.53</td><td>71.57</td><td>72.22</td><td><b>96.29</td><td>73.59</td>
-    <td>75.72</td><td>71.42</td><td>51.89</td><td>69.23</td><td>73.77</td><td>51.97</td>
+    <td>75.72</td><td>71.42</td><td>51.89</td><td><b>69.23</td><td>73.77</td><td>51.97</td>
   </tr>
   <tr>
     <td><b>Ours</b></td>
     <td><b>92.50</b></td><td><b>92.42</b></td><td><b>84.85</b></td><td><b>91.67</b></td><td>91.67</b></td><td><b>84.85</b></td>
-    <td><b>81.29</b></td><td><b>80.09</b></td><td><b>60.48</b></td><td><b>67.69</b></td><td>84.61</b></td><td><b>61.46</b></td>
+    <td><b>81.29</b></td><td><b>80.09</b></td><td><b>60.48</b></td><td>67.69</b></td><td><b>84.61</b></td><td><b>61.46</b></td>
   </tr>
 </table>
 
